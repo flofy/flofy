@@ -57,27 +57,6 @@
 - 🏅 Google Ateliers Numériques
 - 🏅 Scrum Master
 
-## 🚀 Projets à la une
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/flofy/quiz-arena">🧠 quiz-arena</a></h4>
-      Jeu de quiz en ligne.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/flofy/gemwave">💎 gemwave</a></h4>
-      Jeu avec mode multijoueur en cours de construction.
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/flofy/pwa-kit">📦 pwa-kit</a></h4>
-      Base de démarrage pour mes PWA Svelte.
-    </td>
-  </tr>
-</table>
-
 ## 📊 Stats
 
 <div align="center">
